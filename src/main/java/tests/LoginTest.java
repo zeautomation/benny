@@ -1,10 +1,8 @@
 package tests;
 
-import org.junit.Assert;
 import org.junit.Test;
 
 import pageObjects.PageObjects.VroomHomePage;
-import pageObjects.PageObjects.VroomSearchPage;
 
 public class LoginTest extends BasicTest{
 

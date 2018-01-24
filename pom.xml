@@ -54,10 +54,11 @@
 						<version>2.20.1</version>
 						<configuration>
 							
-							<parallel>methods</parallel>
-							<threadCount>3</threadCount>
-						<!-- 
+						
 							<runOrder>random</runOrder>
+						<!-- 
+						    <parallel>methods</parallel>
+							<threadCount>3</threadCount>
 							<threadCountMethods>3</threadCountMethods>
 							<useUnlimitedThreads>true</useUnlimitedThreads>					
 						 -->							
