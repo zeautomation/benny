@@ -56,12 +56,12 @@
 							
 						
 							<runOrder>random</runOrder>
-						<!-- 
+							<!-- 
 						    <parallel>methods</parallel>
 							<threadCount>3</threadCount>
 							<threadCountMethods>3</threadCountMethods>
 							<useUnlimitedThreads>true</useUnlimitedThreads>					
-						 -->							
+						 	-->							
 							<testSourceDirectory>${project.basedir}/src/main/java/</testSourceDirectory>
 							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
 							<includes>
